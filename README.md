@@ -10,9 +10,9 @@
 
 前往 [Releases 下载最新版](https://github.com/RuiaaZ/wangzhouzhongli/releases/latest)。
 
-目前提供 **macOS Apple Silicon（M 系列芯片）** 安装包，Windows 版暂未发布。
+目前提供 **macOS Apple Silicon（M 系列芯片）** 和 **Windows x64** 安装包。
 
-1. 下载并打开 `.dmg`，将“往周种梨”拖入 Applications。
+1. macOS 下载 `.dmg` 后将“往周种梨”拖入 Applications。Windows 下载 `Windows-x64-setup.exe` 后按安装向导操作。
 2. 打开应用，在左下角设置中添加模型接口、API Key 和模型。
 3. 选择工作文件夹，新建聊天或 Agent 任务。
 
